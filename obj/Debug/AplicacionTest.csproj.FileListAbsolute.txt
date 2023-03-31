@@ -1,0 +1,8 @@
+C:\Users\HP\OneDrive\Escritorio\Hospital1\AplicacionTest\bin\Debug\AplicacionTest.exe.config
+C:\Users\HP\OneDrive\Escritorio\Hospital1\AplicacionTest\bin\Debug\AplicacionTest.exe
+C:\Users\HP\OneDrive\Escritorio\Hospital1\AplicacionTest\bin\Debug\AplicacionTest.pdb
+C:\Users\HP\OneDrive\Escritorio\Hospital1\AplicacionTest\bin\Debug\Hospital1.dll
+C:\Users\HP\OneDrive\Escritorio\Hospital1\AplicacionTest\bin\Debug\Hospital1.pdb
+C:\Users\HP\OneDrive\Escritorio\Hospital1\AplicacionTest\obj\Debug\AplicacionTest.csprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\Hospital1\AplicacionTest\obj\Debug\AplicacionTest.exe
+C:\Users\HP\OneDrive\Escritorio\Hospital1\AplicacionTest\obj\Debug\AplicacionTest.pdb
